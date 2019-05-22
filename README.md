@@ -5,3 +5,8 @@ Projeto de app para pegar localização atual do usuário e calcular se o mesmo 
 ## Atenção
 
 Usar prórpia chave de API do Google. A chave que está sendo utilizada no projeto está desabilitada
+
+## Lambda
+
+O arquivo index.js contém o código da Lambda escrita em Node.js
+
